@@ -7,4 +7,7 @@
 -  :mailbox: How to reach me: Dutra22ms@gmail.com
 -  Pronouns: He-Him / They-Them
 
-<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<a href='https://twitter.com/JHopperCC'><img src='twitter.png'></a>
+<img src='instagram.png'></img>
+
+<p color='red'>Hello</p>
