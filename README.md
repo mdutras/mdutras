@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src = "space.gif" align="center" width='85%'></img>
 </div>
 
@@ -12,7 +12,7 @@
 
 ## My social media
 <div align="center">
-  <a href='https://twitter.com/JHopperCC'><img src='twitter.png'></a>
+  <a href='https://twitter.com/JHopperCC'><img src='twitter.png'></a> 
   <a href='https://www.instagram.com/m.dutra.s/'><img src='instagram.png'></img></a>
   <a href='https://www.linkedin.com/in/mateus-dutra-278721176'><img src='linkedin.png'></img></a>
 </div>
