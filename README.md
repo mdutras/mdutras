@@ -5,12 +5,14 @@
 ### Hello dear stranger, I'm Mateus Dutra
 
 **Some facts about me:**
--  I'm brazilian :brazil:
+-  :brazil: I'm brazilian :brazil:
 -  :nerd_face: I am a graduate student in the computer science course at UFCA
 -  :books: I’m currently learning **Node.JS** and **C++**
--  :mailbox: You can contact by: Dutra22ms@gmail.com
+-  :mailbox: You can contact me through dutra22ms@gmail.com
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdutras&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdutras&theme=radical)
+
 
 ## My knowledge
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,4 +35,3 @@
   <a href=''><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href='https://dev.to/dutrasntg'><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 </div>
-
