@@ -31,5 +31,6 @@
   <a href='https://twitter.com/JHopperCC' target="-blank"><img src='twitter.png'></a> 
   <a href='https://www.instagram.com/m.dutra.s/' target="_blank"><img src='instagram.png'></img></a>
   <a href='https://www.linkedin.com/in/mateus-dutra-278721176' target="_blank"><img src='linkedin.png'></img></a>
+  <a href='https://www.linkedin.com/in/mateus-dutra-278721176' target="_blank"><img src='dev.png'></img></a>
 </div>
 
