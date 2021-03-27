@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "space.gif" align="center" width='95%'></img>
+<img src = "space.gif" align="center" width='80%'></img>
 </div>
 
 ### Hello dear stranger, I'm Mateus Dutra
