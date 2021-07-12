@@ -7,7 +7,7 @@
 **Some facts about me:**
 -  :brazil: I'm brazilian :brazil:
 -  :nerd_face: I am a graduate student in the computer science course at UFCA
--  :books: I’m currently learning **Node.JS** and **Ruby**
+-  :books: I’m currently learning **Node.JS** and **Go**
 -  :mailbox: You can contact me through dutra22ms@gmail.com
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdutras&show_icons=true&theme=radical)
