@@ -7,7 +7,7 @@
 **Some facts about me:**
 -  :brazil: I'm brazilian :brazil:
 -  :nerd_face: I am a graduate student in the computer science course at UFCA
--  :books: I’m currently I'm trying to do my best!
+-  :books: I’m currently trying to do my best!
 -  :mailbox: You can contact me through dutra22ms@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdutras&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
