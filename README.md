@@ -5,7 +5,7 @@
 ### Hello dear stranger, I'm Mateus Dutra
 
 **Some facts about me:**
--  :brazil: I'm brazilian :brazil:
+-  🇧🇷 I'm brazilian 🇧🇷
 -  :nerd_face: I am a graduate student in the computer science course at UFCA
 -  :books: I’m currently trying to do my best!
 -  :mailbox: You can contact me through dutra22ms@gmail.com
