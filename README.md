@@ -36,8 +36,8 @@
 
 ## My social media
 
-[<img align="left" alt="LinkedIn" width="25px" src="img/linkedIn.png" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%); padding-right: 10px;"/>](https://www.linkedin.com/in/mateus-dutra-278721176/)
-[<img align="left" alt="Gmail" width="25px" src="img/gmail.png" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%); padding-right: 10px;"/>](mailto:dutra22ms@gmail.com)
-[<img align="left" alt="Gmail" width="25px" src="img/telegram.png" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%); padding-right: 10px;"/>](https://t.me/mdutras)
-[<img align="left" alt="Gmail" width="25px" src="img/twitter.png" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%);"/>](https://twitter.com/dutradev)
+[<img align="left" alt="LinkedIn" width="25px" src="img/linkedIn.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%); padding-right: 10px;"/>](https://www.linkedin.com/in/mateus-dutra-278721176/)
+[<img align="left" alt="Gmail" width="25px" src="img/gmail.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%); padding-right: 10px;"/>](mailto:dutra22ms@gmail.com)
+[<img align="left" alt="Gmail" width="25px" src="img/telegram.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%); padding-right: 10px;"/>](https://t.me/mdutras)
+[<img align="left" alt="Gmail" width="25px" src="img/twitter.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%);"/>](https://twitter.com/dutradev)
 
