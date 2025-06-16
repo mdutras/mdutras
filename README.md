@@ -38,6 +38,5 @@
 
 [<img align="left" alt="LinkedIn" width="25px" src="img/linkedIn.svg"/>](https://www.linkedin.com/in/mateus-dutra-278721176/)
 [<img align="left" alt="Gmail" width="25px" src="img/gmail.svg"/>](mailto:dutra22ms@gmail.com)
-[<img align="left" alt="Gmail" width="25px" src="img/telegram.svg"/>](https://t.me/mdutras)
 [<img align="left" alt="Gmail" width="25px" src="img/twitter.svg"/>](https://twitter.com/dutradev)
 
